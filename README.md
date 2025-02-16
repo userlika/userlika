@@ -2,10 +2,10 @@
 ![Cute Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdlbGJtYXN5YmE1NGNoMGhnb28wbHhkd3hwbDB3ajg0cDVyMzBrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 
 ## ✨・🌙・🌟・🌿・🍄・🌸  
-### **About me**
+### 🎀 **About me**
 - 🎓  Master of Software Engineering.
 - 👀  I’m interested in coding.
-- 🌱  I’m currently learning java and android development.
+- 🌱  Currently growing my skills in **Java** and **Android development**.
 - 🎶  Playing: `[NF - I miss The Days]`
 - 📫  How to reach me: insta - likabarken.
 
