@@ -3,10 +3,11 @@
 
 ## ✨・🌙・🌟・🌿・🍄・🌸  
 ### **About me**
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning java and android development.
-- 🎶 Playing: `[NF - I miss The Days]`
-- 📫 How to reach me: insta - likabarken.
+- 🎓  Master of Software Engineering.
+- 👀  I’m interested in coding.
+- 🌱  I’m currently learning java and android development.
+- 🎶  Playing: `[NF - I miss The Days]`
+- 📫  How to reach me: insta - likabarken.
 
 
 ### 🛠️ **Tech Stack**  
@@ -15,6 +16,7 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  ![API](https://img.shields.io/badge/-API-FF6F61?style=flat&logo=swagger&logoColor=white)  ![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
 <details>
 <summary>✨ Click here for a secret message!</summary>
+
   
 You're awesome! 💖
 
