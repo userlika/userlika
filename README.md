@@ -1,5 +1,5 @@
-# Hi there! I'm Lika 💖
-![Cute Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdlbGJtYXN5YmE1NGNoMGhnb28wbHhkd3hwbDB3ajg0cDVyMzBrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+# Coding my way through challenges and opportunities 🌟
+![Cute Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXYyNDJibGRrN3Zna2Y4dGcwYXZ5ajY5czVuemRsazY5YjNuYWNqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0LImKjc17VA7bsdCwC/giphy.gif)
 
 ## ✨・🌙・🌟・🌿・🍄・🌸  
 ### 🎀 **About me**
@@ -19,5 +19,13 @@
 
   
 You're awesome! 💖
+
+</details>
+
+
+<details>
+<summary>👀 Click here for a fun fact!</summary>
+
+  My favourite game is chess. You can find me on chess.com - userlika.
 
 </details>
