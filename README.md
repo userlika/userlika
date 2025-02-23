@@ -1,7 +1,7 @@
 # Coding my way through challenges and opportunities 🌟
 ![Cute Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXYyNDJibGRrN3Zna2Y4dGcwYXZ5ajY5czVuemRsazY5YjNuYWNqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0LImKjc17VA7bsdCwC/giphy.gif)
 
-## ✨・🌙・🌟・🌿・🍄・🌸  
+---------------------------------------------------------------
 ### 🎀 **About me**
 - 🎓  Master of Software Engineering.
 - 👀  I’m interested in coding.
