@@ -4,7 +4,6 @@
 ---------------------------------------------------------------
 ### 🎀 **About me**
 - 🎓  Master of Software Engineering.
-- 👀  I’m interested in coding.
 - 🌱  Currently growing my skills in **Java** and **Android development**.
 - 🎶  Playing: `[NF - I miss The Days]`
 - 📫  How to reach me: insta - likabarken.
